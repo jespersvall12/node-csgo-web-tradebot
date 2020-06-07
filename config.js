@@ -5,13 +5,13 @@ module.exports = {
     contextID: 2, // ContextID
     bots: {
         bot_1: {
-            siteName: 'Bot 1',  // Will be displayed under the "All bots" tab e.g. "Keys Only"
-            accountName: '',    // bot_1 username
-            password: '',       // bot_1  password
-            twoFactorCode: '',  // shared_secret value
-            identitySecret: '', // identity_secret value
-            steamID64: '',  // SteamID64 of bot account can be found here: "https://steamid.io/"
-            personaName: 'CSG0.Trade BOT #1',   // Nickname for bot account, will change on restart
+            siteName: 'Bot 1001',  // Will be displayed under the "All bots" tab e.g. "Keys Only"
+            accountName: 'jespersvall100',    // bot_1 username
+            password: 'AA758595',       // bot_1  password
+            twoFactorCode: 'qTV1KxTjbl6J2uoE4Y5J8+7tk8A=',  // shared_secret value
+            identitySecret: 'iNSQPEXuJ/pPQqFW4Zpr5nwWnt4=', // identity_secret value
+            steamID64: '76561199064824768',  // SteamID64 of bot account can be found here: "https://steamid.io/"
+            personaName: 'BOT#1001- CSGO-PRIME',   // Nickname for bot account, will change on restart
         },
     },
     steamApiKey: '',    // Your Steam API key, get it here: https://steamcommunity.com/dev/apikey
