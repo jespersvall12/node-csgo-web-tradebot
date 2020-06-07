@@ -14,16 +14,16 @@ module.exports = {
             personaName: 'BOT#1001- CSGO-PRIME',   // Nickname for bot account, will change on restart
         },
     },
-    steamApiKey: '',    // Your Steam API key, get it here: https://steamcommunity.com/dev/apikey
-    SteamApisKey: '',   // Your SteamApis.com key, get it here: https://steamapis.com
+    steamApiKey: 'DE9AF1F815A1B03D70EB9CA1953C3CBD',    // Your Steam API key, get it here: https://steamcommunity.com/dev/apikey
+    SteamApisKey: 'gJZypSqDOKn-soj3ehuKu3x13g0',   // Your SteamApis.com key, get it here: https://steamapis.com
     SteamApisCompactValue: 'safe_ts.last_30d', // Use safe price calculated from 30 days of data, more info: https://steamapis.com/developers (Market Items - Optional Query Parameters "compact_value")
     site: {
         header: 'CSG0.Prime', // Name/header/title of website. Prefix for  <title></title> (For more: /index.html line: 9) 
         steamGroup: '#http://steamcommunity.com/groups/csgo-prime-bots',
         copyrights: 'Copyright © csgo.prime 2020',  // Copyright text
     },
-    domain: 'example.com',    // Domain name only, follow the example (no http:// & no www & no /)
-    website: 'http://example.com',    // Website URL, follow the example (do not add / at the end)
+    domain: 'csgo-time.gearhostpreview.com',    // Domain name only, follow the example (no http:// & no www & no /)
+    website: 'http://csgo-time.gearhostpreview.com/',    // Website URL, follow the example (do not add / at the end)
     websitePort: 80,    // Website PORT, don't change it unless you're using a reverse proxy
     tradeMessage: 'Trade offer from csgo.prime | If you did not request this offer or the offer looks invalid please decline.', // Quite obvious
     rates: {
