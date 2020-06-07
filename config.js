@@ -18,7 +18,7 @@ module.exports = {
     SteamApisKey: '',   // Your SteamApis.com key, get it here: https://steamapis.com
     SteamApisCompactValue: 'safe_ts.last_30d', // Use safe price calculated from 30 days of data, more info: https://steamapis.com/developers (Market Items - Optional Query Parameters "compact_value")
     site: {
-        header: 'CSG0.Trade', // Name/header/title of website. Prefix for  <title></title> (For more: /index.html line: 9) 
+        header: 'CSG0.Prime', // Name/header/title of website. Prefix for  <title></title> (For more: /index.html line: 9) 
         steamGroup: '#',
         copyrights: 'Copyright © csg0.trade 2017',  // Copyright text
     },
